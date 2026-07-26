@@ -52,7 +52,7 @@ SKYBOOST-MAIN/
 
 ```
 Clone the repository:
-git clone [https://github.com/itsheaven-dev/SkyBoost.git](https://github.com/itsheaven
+git clone https://github.com/itsheaven-dev/SkyBoost.git
 
 Navigate to the directory:
 cd SkyBoost
